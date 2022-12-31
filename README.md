@@ -1,28 +1,52 @@
 # AI Product Index
-A communitiy curated index to track and discover awesome AI-powered products.
+A community curated index to track and discover awesome AI-powered products.
 
 *Feel free to open a PR to index other missing AI-powered products.*
-
-## Marketing
-
-- [Jasper](https://www.jasper.ai/) - AI content creator
-
-## Developers
-
-- [GitHub Copilot](https://github.com/features/copilot) - an AI pair programmer
-
-## Search Engines & Tools
-
-- [Ask Anything (by Perplexity)](https://www.perplexity.ai/) - combines large language models with search engines for question answering
-- [ChatGPT (by OpenAI)](https://chat.openai.com/) - conversational AI system powered by large language models
-- [Brid SQL (by Perplexity)](https://www.perplexity.ai/sql) - AI-powered search for the Twitter's social graph
-- [You](https://you.com/apps/discover) - AI powered search engine
-
 
 ## Art & Creativity
 
 - [AI Magic Tools (by runway)](https://runwayml.com/ai-magic-tools/) - creativity tools to edit and generate content
+- [ClipDrop](https://clipdrop.co/) - apps, plugins, and resources for creators, powered by AI
 - [DALL·E (by OpenAI)](https://openai.com/dall-e-2/) - for creating realistic images and art from text descriptions 
+- [DreamStudio](https://stability.ai/) - open-sourced image generation model to product realistic images
 - [Lexica](https://lexica.art/) - stable diffusion search engine
-- [Midjourney]() - AI-powered art generator
+- [Midjourney](https://www.midjourney.com/app/) - AI-powered art generator
 - [Playground](https://playgroundai.com/) - search prompts for art generation
+- [Synthesia](https://www.synthesia.io/) - AI video creation platform
+
+## Developers
+
+- [Ghostwriter (by Replit)](https://replit.com/site/ghostwriter) - AI pair programmer
+- [GitHub Copilot](https://github.com/features/copilot) - an AI pair programmer
+
+## Conversational AI
+
+- [Character.AI](https://beta.character.ai/) - conversational AI for open-ended conversations
+- [ChatGPT (by OpenAI)](https://chat.openai.com/) - conversational AI system powered by large language models
+- [Replika](https://replika.ai/) - an AI companion
+
+## Gaming and 3D
+
+- [Imagine 3D (by Luma AI)](https://captures.lumalabs.ai/imagine) - tool for prototyping 3D objects with text
+- [Scenario](https://www.scenario.gg/) - creating AI-generated game assets
+
+## Marketing
+
+- [copy.ai](https://www.copy.ai/) - AI content generator
+- [Jasper](https://www.jasper.ai/) - AI content creator
+
+
+## Search Engines & Tools
+
+- [Ask Anything (by Perplexity)](https://www.perplexity.ai/) - combines large language models with search engines for question answering
+- [Brid SQL (by Perplexity)](https://www.perplexity.ai/sql) - AI-powered search for the Twitter's social graph
+
+- [Metaphor](https://metaphor.systems/) - a system to search the internet with large language models
+- [You](https://you.com/apps/discover) - AI powered search engine
+
+## Research Tools
+
+- [Consensus](https://consensus.app/) - AI powered search for research papers
+- [Elicit](https://elicit.org/) - an AI research assistant
+
+
