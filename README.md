@@ -6,6 +6,7 @@ A community curated index to track and discover awesome AI-powered products.
 ## Art & Creativity
 
 - [AI Magic Tools (by runway)](https://runwayml.com/ai-magic-tools/) - creativity tools to edit and generate content
+- [AvatarAI](https://avatarai.me/) - create photorealistic AI avatars
 - [ClipDrop](https://clipdrop.co/) - apps, plugins, and resources for creators, powered by AI
 - [DALL·E (by OpenAI)](https://openai.com/dall-e-2/) - for creating realistic images and art from text descriptions 
 - [DreamStudio](https://stability.ai/) - open-sourced image generation model to product realistic images
@@ -14,16 +15,21 @@ A community curated index to track and discover awesome AI-powered products.
 - [Playground](https://playgroundai.com/) - search prompts for art generation
 - [Synthesia](https://www.synthesia.io/) - AI video creation platform
 
-## Developers
-
-- [Ghostwriter (by Replit)](https://replit.com/site/ghostwriter) - AI pair programmer
-- [GitHub Copilot](https://github.com/features/copilot) - an AI pair programmer
-
 ## Conversational AI
 
 - [Character.AI](https://beta.character.ai/) - conversational AI for open-ended conversations
 - [ChatGPT (by OpenAI)](https://chat.openai.com/) - conversational AI system powered by large language models
 - [Replika](https://replika.ai/) - an AI companion
+
+## Design
+
+- [Interior AI](https://interiorai.com/) - interior design mockups and virtual staging
+- [stockimg.ai](https://stockimg.ai/) - AI-powered designs
+
+## Developers
+
+- [Ghostwriter (by Replit)](https://replit.com/site/ghostwriter) - AI pair programmer
+- [GitHub Copilot](https://github.com/features/copilot) - an AI pair programmer
 
 ## Gaming and 3D
 
@@ -34,6 +40,7 @@ A community curated index to track and discover awesome AI-powered products.
 
 - [copy.ai](https://www.copy.ai/) - AI content generator
 - [Jasper](https://www.jasper.ai/) - AI content creator
+- [Peech](https://www.peech-ai.com/) - video content creator for content marketing
 
 
 ## Search Engines & Tools
