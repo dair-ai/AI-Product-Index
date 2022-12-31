@@ -10,6 +10,7 @@ A community curated index to track and discover awesome AI-powered products.
 - [ClipDrop](https://clipdrop.co/) - apps, plugins, and resources for creators, powered by AI
 - [DALL·E (by OpenAI)](https://openai.com/dall-e-2/) - for creating realistic images and art from text descriptions 
 - [DreamStudio](https://stability.ai/) - open-sourced image generation model to product realistic images
+- [Lensa](https://prisma-ai.com/lensa) - AI-powered image editing app for avatars
 - [Lexica](https://lexica.art/) - stable diffusion search engine
 - [Midjourney](https://www.midjourney.com/app/) - AI-powered art generator
 - [Playground](https://playgroundai.com/) - search prompts for art generation
