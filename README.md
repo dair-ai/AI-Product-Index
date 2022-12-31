@@ -48,7 +48,6 @@ A community curated index to track and discover awesome AI-powered products.
 
 - [Ask Anything (by Perplexity)](https://www.perplexity.ai/) - combines large language models with search engines for question answering
 - [Brid SQL (by Perplexity)](https://www.perplexity.ai/sql) - AI-powered search for the Twitter's social graph
-
 - [Metaphor](https://metaphor.systems/) - a system to search the internet with large language models
 - [You](https://you.com/apps/discover) - AI powered search engine
 
