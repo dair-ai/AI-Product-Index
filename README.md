@@ -31,9 +31,10 @@ A community curated index to track and discover awesome AI-powered products.
 - [Ghostwriter (by Replit)](https://replit.com/site/ghostwriter) - AI pair programmer
 - [GitHub Copilot](https://github.com/features/copilot) - an AI pair programmer
 
-## Gaming and 3D
+## Gaming, 3D, Motion
 
 - [Imagine 3D (by Luma AI)](https://captures.lumalabs.ai/imagine) - tool for prototyping 3D objects with text
+- [move.ai](https://www.move.ai/) - AI-powered real-time motion capture
 - [Scenario](https://www.scenario.gg/) - creating AI-generated game assets
 
 ## Marketing
