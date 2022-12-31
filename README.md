@@ -27,10 +27,16 @@ A community curated index to track and discover awesome AI-powered products.
 - [Interior AI](https://interiorai.com/) - interior design mockups and virtual staging
 - [stockimg.ai](https://stockimg.ai/) - AI-powered designs
 
-## Developers
+## Education
+
+- Botta
+- [Podly.ai](https://podly.ai/) - summarized podcasts
+
+## Developer
 
 - [Ghostwriter (by Replit)](https://replit.com/site/ghostwriter) - AI pair programmer
 - [GitHub Copilot](https://github.com/features/copilot) - an AI pair programmer
+- [Phind](https://phind.com/) - LLM-powered search engine for developers and technical questions
 
 ## Gaming, 3D, Motion
 
@@ -44,12 +50,16 @@ A community curated index to track and discover awesome AI-powered products.
 - [Jasper](https://www.jasper.ai/) - AI content creator
 - [Peech](https://www.peech-ai.com/) - video content creator for content marketing
 
+## Productivity
+- Memdot
 
 ## Search Engines & Tools
 
 - [Ask Anything (by Perplexity)](https://www.perplexity.ai/) - combines large language models with search engines for question answering
 - [Brid SQL (by Perplexity)](https://www.perplexity.ai/sql) - AI-powered search for the Twitter's social graph
 - [Metaphor](https://metaphor.systems/) - a system to search the internet with large language models
+- [Rewind](https://www.rewind.ai/) - search engine for your life
+- [Tasmania](https://tasmania.sievedata.com/) - YouTube video search
 - [You](https://you.com/apps/discover) - AI powered search engine
 
 ## Research Tools
