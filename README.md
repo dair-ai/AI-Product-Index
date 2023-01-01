@@ -29,8 +29,10 @@ A community curated index to track and discover awesome AI-powered products. Thi
 
 ## Education
 
-- Botta
+- [Anypod.ai](https://www.anypod.ai/) - semantic search engine for YouTube and podcast content
+- [Ask Botta](https://askbotta.com/) - personal teaching assistant
 - [Podly.ai](https://podly.ai/) - summarized podcasts
+
 
 ## Developer
 
