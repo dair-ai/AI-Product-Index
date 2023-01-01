@@ -53,7 +53,7 @@ A community curated index to track and discover awesome AI-powered products. Thi
 - [Peech](https://www.peech-ai.com/) - video content creator for content marketing
 
 ## Productivity
-- Memdot
+- [Smart Write & Smart Edit (by Mem)](https://get.mem.ai/) - knowledge-aware AI writer
 
 ## Search Engines & Tools
 
@@ -68,5 +68,3 @@ A community curated index to track and discover awesome AI-powered products. Thi
 
 - [Consensus](https://consensus.app/) - AI powered search for research papers
 - [Elicit](https://elicit.org/) - an AI research assistant
-
-
