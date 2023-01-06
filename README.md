@@ -36,6 +36,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 
 ## Developer
 
+- [CodiumAI](https://www.codium.ai/) - analyze code and generate meaningful tests to catch bugs
 - [Ghostwriter (by Replit)](https://replit.com/site/ghostwriter) - AI pair programmer
 - [GitHub Copilot](https://github.com/features/copilot) - an AI pair programmer
 - [Phind](https://phind.com/) - LLM-powered search engine for developers and technical questions
