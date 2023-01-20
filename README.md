@@ -49,10 +49,11 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [move.ai](https://www.move.ai/) - AI-powered real-time motion capture
 - [Scenario](https://www.scenario.gg/) - creating AI-generated game assets
 
-## Marketing
+## Sales/Marketing
 
 - [copy.ai](https://www.copy.ai/) - AI content generator
 - [Jasper](https://www.jasper.ai/) - AI content creator
+- [Magic Summaries by Sybill](https://www.sybill.ai/magic-summary) - create automatic, accurate sales call summaries using AI
 - [Peech](https://www.peech-ai.com/) - video content creator for content marketing
 
 ## Productivity
