@@ -36,7 +36,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 
 ## Developer
 
-- [Chat Data Prep](https://www.akkio.com/chat-data-prep) - data transformation using plan english
+- [Chat Data Prep](https://www.akkio.com/chat-data-prep) - data transformation using plain english
 - [CodiumAI](https://www.codium.ai/) - analyze code and generate meaningful tests to catch bugs
 - [Ghostwriter (by Replit)](https://replit.com/site/ghostwriter) - AI pair programmer
 - [GitHub Copilot](https://github.com/features/copilot) - an AI pair programmer
