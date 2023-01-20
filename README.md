@@ -1,5 +1,5 @@
 # AI Product Index
-A community-curated index to track and discover awesome AI-powered products. This isn't meant to be exhaustive, it's mostly based on our research.
+A community-curated index to track and discover awesome AI-powered products. This isn't meant to be exhaustive, it's mostly based on our research and submissions from the community.
 
 *Feel free to open a PR to index other missing AI-powered products. We define products as those that are built on top of AI.* 
 
