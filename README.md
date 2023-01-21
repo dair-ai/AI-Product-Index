@@ -62,7 +62,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 ## Search Engines & Tools
 
 - [Ask Anything (by Perplexity)](https://www.perplexity.ai/) - combines large language models with search engines for question answering
-- [Brid SQL (by Perplexity)](https://www.perplexity.ai/sql) - AI-powered search for the Twitter's social graph
+- [Bird SQL (by Perplexity)](https://www.perplexity.ai/sql) - AI-powered search for the Twitter's social graph
 - [Metaphor](https://metaphor.systems/) - a system to search the internet with large language models
 - [Rewind](https://www.rewind.ai/) - search engine for your life
 - [Tasmania](https://tasmania.sievedata.com/) - YouTube video search
