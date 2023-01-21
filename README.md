@@ -32,7 +32,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Anypod.ai](https://www.anypod.ai/) - semantic search engine for YouTube and podcast content
 - [Ask Botta](https://askbotta.com/) - personal teaching assistant
 - [Podly.ai](https://podly.ai/) - summarized podcasts
-
+- [Flair](https://withflair.ai/) - AI design tool for branded content
 
 ## Developer
 
