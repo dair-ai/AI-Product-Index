@@ -32,7 +32,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Anypod.ai](https://www.anypod.ai/) - semantic search engine for YouTube and podcast content
 - [Ask Botta](https://askbotta.com/) - personal teaching assistant
 - [Podly.ai](https://podly.ai/) - summarized podcasts
-
+- [Flair](https://withflair.ai/) - AI design tool for branded content
 
 ## Developer
 
@@ -58,6 +58,8 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 
 ## Productivity
 - [Smart Write & Smart Edit (by Mem)](https://get.mem.ai/) - knowledge-aware AI writer
+- [DraftLab](https://draftlab.ai/) - Gmail copilot
+- [Adept](https://www.adept.ai/) - useful general intelligence
 
 ## Search Engines & Tools
 
@@ -73,3 +75,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Consensus](https://consensus.app/) - AI powered search for research papers
 - [Elicit](https://elicit.org/) - an AI research assistant
 - [Explainpaper](https://www.explainpaper.com/) - an AI research assistant
+
+
+## Assistants
+- [DoNotPay](https://donotpay.com/) - the world's first robot lawyer
