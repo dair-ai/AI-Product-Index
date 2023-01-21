@@ -33,6 +33,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Ask Botta](https://askbotta.com/) - personal teaching assistant
 - [Podly.ai](https://podly.ai/) - summarized podcasts
 - [Flair](https://withflair.ai/) - AI design tool for branded content
+- [Lorro](https://lorro.io/) - Practice speaking English with an AI tutor
 
 ## Developer
 
