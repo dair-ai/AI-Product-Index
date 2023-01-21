@@ -58,6 +58,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 
 ## Productivity
 - [Smart Write & Smart Edit (by Mem)](https://get.mem.ai/) - knowledge-aware AI writer
+- [DraftLab](https://draftlab.ai/) - Gmail copilot
 
 ## Search Engines & Tools
 
