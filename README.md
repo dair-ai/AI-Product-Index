@@ -82,3 +82,6 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 
 ## Assistants
 - [DoNotPay](https://donotpay.com/) - the world's first robot lawyer
+
+## Prompt Engineering
+- [Promptable.ai](https://promptable.ai/) - the ultimate workspace for prompt engineering
