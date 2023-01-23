@@ -35,6 +35,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Podly.ai](https://podly.ai/) - summarized podcasts
 - [Flair](https://withflair.ai/) - AI design tool for branded content
 - [Lorro](https://lorro.io/) - Practice speaking English with an AI tutor
+- [SlidesAI.io](https://slidesai.io) - An AI Powered Text to Presentation Tool, Works with Google Slides
 
 ## Developer
 
