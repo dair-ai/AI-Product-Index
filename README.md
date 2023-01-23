@@ -21,6 +21,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 
 - [Character.AI](https://beta.character.ai/) - conversational AI for open-ended conversations
 - [ChatGPT (by OpenAI)](https://chat.openai.com/) - conversational AI system powered by large language models
+- [DoNotPay](https://donotpay.com/) - the world's first robot lawyer
 - [Replika](https://replika.ai/) - an AI companion
 
 ## Design
@@ -44,12 +45,14 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Ghostwriter (by Replit)](https://replit.com/site/ghostwriter) - AI pair programmer
 - [GitHub Copilot](https://github.com/features/copilot) - an AI pair programmer
 - [Phind](https://phind.com/) - LLM-powered search engine for developers and technical questions
+- [Promptable.ai](https://promptable.ai/) - the ultimate workspace for prompt engineering
 
 ## Gaming, 3D, Motion
 
 - [Imagine 3D (by Luma AI)](https://captures.lumalabs.ai/imagine) - tool for prototyping 3D objects with text
 - [move.ai](https://www.move.ai/) - AI-powered real-time motion capture
 - [Scenario](https://www.scenario.gg/) - creating AI-generated game assets
+- [Inworld AI](https://inworld.ai/) - create any character you can imagine
 
 ## Sales/Marketing
 
@@ -77,7 +80,3 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Consensus](https://consensus.app/) - AI powered search for research papers
 - [Elicit](https://elicit.org/) - an AI research assistant
 - [Explainpaper](https://www.explainpaper.com/) - an AI research assistant
-
-
-## Assistants
-- [DoNotPay](https://donotpay.com/) - the world's first robot lawyer
