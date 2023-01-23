@@ -65,6 +65,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Smart Write & Smart Edit (by Mem)](https://get.mem.ai/) - knowledge-aware AI writer
 - [DraftLab](https://draftlab.ai/) - Gmail copilot
 - [Adept](https://www.adept.ai/) - useful general intelligence
+- [AutoRegEx](https://www.autoregex.xyz/) - AI based Text to Regex conversion
 
 ## Search Engines & Tools
 
