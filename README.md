@@ -61,6 +61,8 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Jasper](https://www.jasper.ai/) - AI content creator
 - [Magic Summaries by Sybill](https://www.sybill.ai/magic-summary) - create automatic, accurate sales call summaries using AI
 - [Peech](https://www.peech-ai.com/) - video content creator for content marketing
+- [Mood](https://usemood.us/) - AI Podcast Marketing Kit: Amplify your podcast to 1 billion audiences with generative AI.
+
 
 ## Productivity
 - [Smart Write & Smart Edit (by Mem)](https://get.mem.ai/) - knowledge-aware AI writer
