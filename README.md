@@ -70,7 +70,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [DraftLab](https://draftlab.ai/) - Gmail copilot
 - [Adept](https://www.adept.ai/) - useful general intelligence
 - [AutoRegEx](https://www.autoregex.xyz/) - AI based Text to Regex conversion
-- [Casper AI](https://chrome.google.com/webstore/detail/casper-ai/fgfiokgecpkambjildjleljjcihnocel) - A tool for professionals to simplify their workflow by summarizing articles, creating content and sharing insights with stakeholders
+- [Casper AI](https://chrome.google.com/webstore/detail/casper-ai/fgfiokgecpkambjildjleljjcihnocel) - simplify workflow by summarizing articles, creating content and sharing insights
 
 ## Search Engines & Tools
 
