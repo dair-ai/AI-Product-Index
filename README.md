@@ -23,6 +23,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [ChatGPT (by OpenAI)](https://chat.openai.com/) - conversational AI system powered by large language models
 - [DoNotPay](https://donotpay.com/) - the world's first robot lawyer
 - [Replika](https://replika.ai/) - an AI companion
+- [Poe](https://poe.com/) - QA agent platform from Quora
 
 ## Design
 
@@ -81,6 +82,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Rewind](https://www.rewind.ai/) - search engine for your life
 - [Tasmania](https://tasmania.sievedata.com/) - YouTube video search
 - [You](https://you.com/apps/discover) - AI powered search engine
+- [Neeva](https://neeva.com/) - AI powered search engine
 
 ## Research Tools
 
