@@ -83,6 +83,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Tasmania](https://tasmania.sievedata.com/) - YouTube video search
 - [You](https://you.com/apps/discover) - AI powered search engine
 - [Neeva](https://neeva.com/) - AI powered search engine
+- [Operator.io](https://operator.io) - AI powered blockchain search engine 
 
 ## Research Tools
 
