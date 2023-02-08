@@ -40,6 +40,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Podly.ai](https://podly.ai/) - summarized podcasts
 - [Speak](https://www.speak.com/) - The speaking app that actually talks
 - [SlidesAI.io](https://slidesai.io) - An AI Powered Text to Presentation Tool, Works with Google Slides
+- [Cathoven A.I.](https://www.cathoven.com) - AI tools for language teachers to design teaching materials
 
 ## Developer
 
