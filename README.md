@@ -66,6 +66,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Magic Summaries by Sybill](https://www.sybill.ai/magic-summary) - create automatic, accurate sales call summaries using AI
 - [Peech](https://www.peech-ai.com/) - video content creator for content marketing
 - [Mood](https://usemood.us/) - AI Podcast Marketing Kit: Amplify your podcast to 1 billion audiences with generative AI.
+- [Wordtune](https://www.wordtune.com/) - AI Writing Assistant and Content Generator
 
 
 ## Productivity
