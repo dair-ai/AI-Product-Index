@@ -71,6 +71,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 
 ## Productivity
 - [Smart Write & Smart Edit (by Mem)](https://get.mem.ai/) - knowledge-aware AI writer
+- [Writers brew AI](https://writersbrew.app) - One AI assistant that works across all apps & browsers.
 - [DraftLab](https://draftlab.ai/) - Gmail copilot
 - [Adept](https://www.adept.ai/) - useful general intelligence
 - [AutoRegEx](https://www.autoregex.xyz/) - AI based Text to Regex conversion
