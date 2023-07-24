@@ -79,6 +79,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 
 ## Search Engines & Tools
 
+- [Morpher AI](https://www.morpher.com/) - Morpher AI is a comprehensive tool for market analysis and decision-making. As your personal investment analyst, Morpher AI delivers real-time insights and analysis for any market.
 - [Ask Anything (by Perplexity)](https://www.perplexity.ai/) - combines large language models with search engines for question answering
 - [Bird SQL (by Perplexity)](https://www.perplexity.ai/sql) - AI-powered search for the Twitter's social graph
 - [Metaphor](https://metaphor.systems/) - a system to search the internet with large language models
