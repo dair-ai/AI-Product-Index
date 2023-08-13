@@ -1,14 +1,14 @@
 # AI Product Index
 A community-curated index to track and discover awesome AI-powered products. This isn't meant to be exhaustive, it's mostly based on our research and submissions from the community.
 
-*Feel free to open a PR to index other missing AI-powered products.* 
+*Feel free to open a PR to index other missing AI-powered products.*
 
 ## Art & Creativity
 
 - [AI Magic Tools (by runway)](https://runwayml.com/ai-magic-tools/) - creativity tools to edit and generate content
 - [AvatarAI](https://avatarai.me/) - create photorealistic AI avatars
 - [ClipDrop](https://clipdrop.co/) - apps, plugins, and resources for creators, powered by AI
-- [DALL·E (by OpenAI)](https://openai.com/dall-e-2/) - for creating realistic images and art from text descriptions 
+- [DALL·E (by OpenAI)](https://openai.com/dall-e-2/) - for creating realistic images and art from text descriptions
 - [DreamStudio](https://stability.ai/) - open-sourced image generation model to product realistic images
 - [Lensa](https://prisma-ai.com/lensa) - AI-powered image editing app for avatars
 - [Lexica](https://lexica.art/) - stable diffusion search engine
@@ -61,6 +61,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 
 ## Sales/Marketing
 
+- [BingBang.ai](https://www.bingbang.ai/) - AI content creator, team collaboration, content planner for all social platforms
 - [copy.ai](https://www.copy.ai/) - AI content generator
 - [Jasper](https://www.jasper.ai/) - AI content creator
 - [Magic Summaries by Sybill](https://www.sybill.ai/magic-summary) - create automatic, accurate sales call summaries using AI
@@ -86,7 +87,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Tasmania](https://tasmania.sievedata.com/) - YouTube video search
 - [You](https://you.com/apps/discover) - AI powered search engine
 - [Neeva](https://neeva.com/) - AI powered search engine
-- [Operator.io](https://operator.io) - AI powered blockchain search engine 
+- [Operator.io](https://operator.io) - AI powered blockchain search engine
 
 ## Research Tools
 
