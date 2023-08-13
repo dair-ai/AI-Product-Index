@@ -77,6 +77,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Adept](https://www.adept.ai/) - useful general intelligence
 - [AutoRegEx](https://www.autoregex.xyz/) - AI based Text to Regex conversion
 - [Casper AI](https://chrome.google.com/webstore/detail/casper-ai/fgfiokgecpkambjildjleljjcihnocel) - simplify workflow by summarizing articles, creating content and sharing insights
+- [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides) - Create AI-powered presentations in Google Slides
 
 ## Search Engines & Tools
 
