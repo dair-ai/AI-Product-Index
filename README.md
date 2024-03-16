@@ -14,6 +14,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Lexica](https://lexica.art/) - stable diffusion search engine
 - [Midjourney](https://www.midjourney.com/app/) - AI-powered art generator
 - [Phraser](https://phraser.tech) - the collaborative creative AI tool
+- [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
 - [Playground](https://playgroundai.com/) - search prompts for art generation
 - [Synthesia](https://www.synthesia.io/) - AI video creation platform
 
