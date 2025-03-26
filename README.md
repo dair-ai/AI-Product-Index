@@ -51,6 +51,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [GitHub Copilot](https://github.com/features/copilot) - an AI pair programmer
 - [Phind](https://phind.com/) - LLM-powered search engine for developers and technical questions
 - [Promptable.ai](https://promptable.ai/) - the ultimate workspace for prompt engineering
+- [Fynix](https://www.fynix.ai/) - Fynix combines real-time AI coding assistance with agent-powered code reviews
 
 ## Gaming, 3D, Motion
 
