@@ -51,7 +51,8 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [GitHub Copilot](https://github.com/features/copilot) - an AI pair programmer
 - [Phind](https://phind.com/) - LLM-powered search engine for developers and technical questions
 - [Promptable.ai](https://promptable.ai/) - the ultimate workspace for prompt engineering
-
+- [KeployAI](https://keploy.io/) - Vertical AI, built just for testing
+- [Keploy](https://keploy.io/)- Effortless API and Integration Testing with Zero Code
 ## Gaming, 3D, Motion
 
 - [Imagine 3D (by Luma AI)](https://captures.lumalabs.ai/imagine) - tool for prototyping 3D objects with text
