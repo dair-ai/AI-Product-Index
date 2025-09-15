@@ -78,6 +78,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [AutoRegEx](https://www.autoregex.xyz/) - AI based Text to Regex conversion
 - [Casper AI](https://chrome.google.com/webstore/detail/casper-ai/fgfiokgecpkambjildjleljjcihnocel) - simplify workflow by summarizing articles, creating content and sharing insights
 - [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides) - Create AI-powered presentations in Google Slides
+- [Ticketdesk AI](https://ticketdesk.ai/) - AI agents for customer support to handle tickets, set tags, and assign them to the right team members when needed.
 
 ## Search Engines & Tools
 
