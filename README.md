@@ -68,6 +68,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Peech](https://www.peech-ai.com/) - video content creator for content marketing
 - [Mood](https://usemood.us/) - AI Podcast Marketing Kit: Amplify your podcast to 1 billion audiences with generative AI.
 - [Wordtune](https://www.wordtune.com/) - AI Writing Assistant and Content Generator
+- [PixelPanda](https://wwww.pixelpanda.ai/) - Create marketing assets including UGCs, enriched product images and silos for distribution.
 
 
 ## Productivity
