@@ -68,6 +68,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [Peech](https://www.peech-ai.com/) - video content creator for content marketing
 - [Mood](https://usemood.us/) - AI Podcast Marketing Kit: Amplify your podcast to 1 billion audiences with generative AI.
 - [Wordtune](https://www.wordtune.com/) - AI Writing Assistant and Content Generator
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 
 ## Productivity
