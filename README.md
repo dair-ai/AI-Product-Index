@@ -9,6 +9,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 - [AvatarAI](https://avatarai.me/) - create photorealistic AI avatars
 - [ClipDrop](https://clipdrop.co/) - apps, plugins, and resources for creators, powered by AI
 - [DALL·E (by OpenAI)](https://openai.com/dall-e-2/) - for creating realistic images and art from text descriptions
+- [GPT Image 2](https://gptimage2.asia/) - AI image generator and editor for marketing, ecommerce, social media, and branded content
 - [DreamStudio](https://stability.ai/) - open-sourced image generation model to product realistic images
 - [Lensa](https://prisma-ai.com/lensa) - AI-powered image editing app for avatars
 - [Lexica](https://lexica.art/) - stable diffusion search engine
