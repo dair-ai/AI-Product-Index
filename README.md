@@ -20,6 +20,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 ## Conversational AI
 
 - [Character.AI](https://beta.character.ai/) - conversational AI for open-ended conversations
+- [WSUP AI](https://wsupai.app/) - free AI character chat in the browser, no sign up (SFW only)
 - [ChatGPT (by OpenAI)](https://chat.openai.com/) - conversational AI system powered by large language models
 - [DoNotPay](https://donotpay.com/) - the world's first robot lawyer
 - [Replika](https://replika.ai/) - an AI companion
