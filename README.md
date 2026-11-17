@@ -28,6 +28,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 ## Design
 
 - [Interior AI](https://interiorai.com/) - interior design mockups and virtual staging
+- [RoomRedecor](https://roomredecor.com/) - uses AI to restyle selected areas of a room photo and compare the result with the original
 - [stockimg.ai](https://stockimg.ai/) - AI-powered designs
 
 ## Education
